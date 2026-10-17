@@ -1,1 +1,1 @@
-"Git guarda el historial de cambios en commits" 
+Git guarda el historial de cambios en commits
